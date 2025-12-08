@@ -11,7 +11,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[🚀 Live Demo](#) • [📖 Documentation](#features) • [🐛 Report Bug](https://github.com/yourusername/campus-tracker/issues) • [✨ Request Feature](https://github.com/yourusername/campus-tracker/issues)
+[🚀 Live Demo](https://compustracker-lost-found.netlify.app) • [📖 Documentation](#features) • [🐛 Report Bug](https://github.com/yourusername/campus-tracker/issues) • [✨ Request Feature](https://github.com/yourusername/campus-tracker/issues)
 
 </div>
 
